@@ -1,0 +1,14 @@
+{
+  "name": "test-twitter-profile-followers",
+  "version": "1.0.0",
+  "description": "simple client for twitter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rupak Karna",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
